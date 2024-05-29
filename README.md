@@ -1,7 +1,7 @@
-SOCAIL MEDIA PLATFORM
+SOCAIL MEDIA PLATFORM-------------------------------------------------------------------------------------------------------------------------
 -> Created a social media application that enables user authentication, post creation, personalized post display, and viewing all
   posts. Utilized MongoDB, Express.js, React.js, and Node.js to deliver a seamless and interactive user experience.
--> Technology Used
+-> Technology Used------------------------------------------------------------------------------------------------------------------------------
   MERN Full stack
 ![Screenshot 2024-05-29 234557](https://github.com/KaranPrajapati20/Socail-Medai/assets/123754898/09c07974-cbe8-4b4c-adf7-cb606547c834)
 ![Screenshot 2024-05-29 234844](https://github.com/KaranPrajapati20/Socail-Medai/assets/123754898/76faba83-e175-43e8-bb33-14a53da73fcf)
